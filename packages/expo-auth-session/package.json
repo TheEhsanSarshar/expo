@@ -55,5 +55,14 @@
   },
   "jest": {
     "preset": "expo-module-scripts"
+  },
+  "expoStories": {
+    "packages": {
+      "expo-auth-session": "*",
+      "expo-web-browser": "*",
+      "expo-constants": "*",
+      "expo-random": "*",
+      "expo-crypto": "*"
+    }
   }
 }

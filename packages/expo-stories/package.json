@@ -7,6 +7,7 @@
   "license": "MIT",
   "files": [
     "bin",
+    "src/*",
     "metro-config.js",
     "webpack-config",
     "types.d.ts"
